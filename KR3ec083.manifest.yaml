@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec083/v1
 canonical_location: https://kanripo.org/bkk/KR3ec083/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中國藥一百種之化學實驗
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec083_000.yaml, hash: 'sha256:6adf680e08b4345b00b5031f5161256252fffaaa962b9bdb850fae72cea313f6'}
+  - {seq: 0, filename: KR3ec083_000.yaml, hash: 'sha256:f4cd434c27541b66d3d4cdb2ea5faf9401b2f9f9b8fd64b6da29b8d4a5e02830'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec083_000.markers.yaml, hash: 'sha256:f4793bfc9c21bcf6cc65ad3324fd4439591c3bbd7503aba3a1748b9c3836ba63'}
+  - {seq: 0, role: markers, filename: assets/KR3ec083_000.markers.yaml, hash: 'sha256:f964eb7ffc79025f93568a0372005a51f2121901193371a79012f458b18bdc72'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,7 @@ table_of_contents:
   label: 第三表
   type: section
   level: 1
-hash: sha256:5ad94f55fd2ad1404b556e55046467efca3261ad23090f615d452f93d05a1ce1
+hash: sha256:0714a161f3cb66279f92f4798b0cfd934046e7fe1dd54223271d1f8904f79a84
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
